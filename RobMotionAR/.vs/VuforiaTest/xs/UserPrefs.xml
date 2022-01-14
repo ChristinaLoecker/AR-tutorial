@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{FDEF7166-8555-CFC0-8D70-5F2FFB6B3F92}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RosSharp/Scripts/RosBridgeClient/RosCommuncation/ROS_anim.cs">
+    <Files>
+      <File FileName="../../Sciebo/MP/Dario/YuMi/RosBridge/talker.py" Line="51" Column="58" />
+      <File FileName="Assets/RosSharp/Scripts/RosBridgeClient/RosCommuncation/ROS_anim.cs" Line="33" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VuforiaTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="RosSharp" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="RosBridgeClient" expanded="True">
+                    <Node name="RosCommuncation" expanded="True">
+                      <Node name="ROS_anim.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b88a871f-fd1b-4dbc-94ff-93ac09e6d477" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
